@@ -6,4 +6,4 @@ A kerf is the slot a blade leaves when it cuts. We cut a long episode down to th
 
 Built by people who run a podcast and post from it every day.
 
-Coming soon.
+Brought to you by [Revline](https://revlinehq.com). Coming soon.
